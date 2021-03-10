@@ -1,0 +1,62 @@
+[17/06/2019 19:07:26]  Executing test : AmazonTest
+[17/06/2019 19:07:26]  Executing test case : Navigate To Amazon, Search For Lancer Shoes, Add To Cart And Take a Screenshot
+[17/06/2019 19:07:26]  Creating a browser instance and navigating to the test site ...
+[17/06/2019 19:07:34]  Created browser instance successfully
+[17/06/2019 19:07:40]  Maximizing Browser window...
+[17/06/2019 19:07:44]  Browser window is maximized
+[17/06/2019 19:07:47]  Asserting  title  where : Expected title = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[17/06/2019 19:07:47]  Actual title = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in and matches with Expected title = Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[17/06/2019 19:07:47]  Navigated to the test site - Amazon.in
+[17/06/2019 19:07:47]  Waiting for web element to load on the page
+[17/06/2019 19:07:47]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:07:47]  Waiting for web element to load on the page
+[17/06/2019 19:07:47]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:07:47]  Clearing field : Search Field
+[17/06/2019 19:07:47]  Waiting for web element to load on the page
+[17/06/2019 19:07:47]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:07:47]  Cleared : Search Field
+[17/06/2019 19:07:47]  Sending Values in : Search Field
+[17/06/2019 19:07:47]  Inputted 'Lancer Men's Formal Shoes' text into : 'Search Field'
+[17/06/2019 19:07:47]  Clicking on : Search Button
+[17/06/2019 19:07:47]  Waiting for web element to load on the page
+[17/06/2019 19:07:48]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:07:53]  Clicked on : Search Button
+[17/06/2019 19:07:53]  Clicked on the element : Search Button and new page loaded with title : Amazon.in: Lancer Men's Formal Shoes
+[17/06/2019 19:07:54]  Asserting  title  where : Expected title = Amazon.in: Lancer Men's Formal Shoes
+[17/06/2019 19:07:54]  Actual title = Amazon.in: Lancer Men's Formal Shoes and matches with Expected title = Amazon.in: Lancer Men's Formal Shoes
+[17/06/2019 19:07:54]  Waiting for web element to load on the page
+[17/06/2019 19:07:54]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:07:54]  Checking whether Lancer Shoe is displayed on the page or not ...
+[17/06/2019 19:07:54]  Lancer Shoe is displayed on the page
+[17/06/2019 19:07:54]  Clicking on : Lancer Shoe
+[17/06/2019 19:07:54]  Waiting for web element to load on the page
+[17/06/2019 19:07:54]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:07:55]  Clicked on : Lancer Shoe
+[17/06/2019 19:07:55]  Clicked on the element : Lancer Shoe and new page loaded with title : Amazon.in: Lancer Men's Formal Shoes
+[17/06/2019 19:07:55]  Checking whether Shoe Size Dropdown is displayed on the page or not ...
+[17/06/2019 19:08:02]  Shoe Size Dropdown is displayed on the page
+[17/06/2019 19:08:04]  Selecting '10 UK/India (44 EU)' from : Shoe Size Dropdown
+[17/06/2019 19:08:04]  Waiting for web element to load on the page
+[17/06/2019 19:08:04]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:08:05]  Selected '10 UK/India (44 EU)' from : Shoe Size Dropdown
+[17/06/2019 19:08:08]  Clicking on : Add To Cart Button
+[17/06/2019 19:08:08]  Waiting for web element to load on the page
+[17/06/2019 19:08:08]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:08:11]  Clicked on : Add To Cart Button
+[17/06/2019 19:08:11]  Clicked on the element : Add To Cart Button and new page loaded with title : Amazon.in Shopping Cart
+[17/06/2019 19:08:11]  Checking whether Cart Button is displayed on the page or not ...
+[17/06/2019 19:08:11]  Cart Button is displayed on the page
+[17/06/2019 19:08:11]  Clicking on : Cart Button
+[17/06/2019 19:08:11]  Waiting for web element to load on the page
+[17/06/2019 19:08:11]  Waiting ends ... Web element loaded on the page
+[17/06/2019 19:08:13]  Clicked on : Cart Button
+[17/06/2019 19:08:14]  Clicked on the element : Cart Button and new page loaded with title : Amazon.in Shopping Cart
+[17/06/2019 19:08:15]  Asserting  title  where : Expected title = Amazon.in Shopping Cart
+[17/06/2019 19:08:15]  Actual title = Amazon.in Shopping Cart and matches with Expected title = Amazon.in Shopping Cart
+[17/06/2019 19:08:15]  Checking whether Product is displayed on the page or not ...
+[17/06/2019 19:08:15]  Product is displayed on the page
+[17/06/2019 19:08:21]  Closing the driver ...
+[17/06/2019 19:08:23]  Closed the driver
+[17/06/2019 19:08:23]  Result of test case execution - Pass: Product Screenshots can be found in reports folder
+[17/06/2019 19:08:23]  Result of the 'AmazonTest' test suite execution - Pass
+[17/06/2019 19:08:23]  *** Test run finished ***
